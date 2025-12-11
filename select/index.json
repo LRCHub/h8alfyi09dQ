@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "悲しい気持ち（Just a man in love)",
+  "base_artist": "桑田佳祐",
+  "createdAt": "2025-12-11T13:50:01.516524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悲しい気持ち（Just a man in love)",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/01_悲しい気持ち(Just_a_man_in_love)_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悲しい気持ち(Just a man in love)",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/02_悲しい気持ち(Just_a_man_in_love)_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悲しい気持ち（Just a man in love) [2022 Remaster]",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/03_悲しい気持ち(Just_a_man_in_love)_[2022_Remaster]_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "悲しい気持ち(Just a man in love)",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/04_悲しい気持ち(Just_a_man_in_love)_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悲しい気持ち (Just a Man in Love)",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/05_悲しい気持ち_(Just_a_Man_in_Love)_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "悲しい気持ち（Just a man in love)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/06_悲しい気持ち(Just_a_man_in_love)_Various.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "悲しい気持ち (JUST A MAN IN LOVE)",
+      "artist": "桑田佳祐",
+      "has_synced": false,
+      "path": "select/07_悲しい気持ち_(JUST_A_MAN_IN_LOVE)_桑田佳祐.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "悲しい気持ち - JUST A MAN IN LOVE",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/08_悲しい気持ち_-_JUST_A_MAN_IN_LOVE_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "悲しい気持ち（Just a man in love)",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/09_悲しい気持ち(Just_a_man_in_love)_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悲しい気持ち(JUST A MAN IN LOVE)",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_01_悲しい気持ち(JUST_A_MAN_IN_LOVE)_桑田_佳祐.txt"
+    }
+  ]
+}
